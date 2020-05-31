@@ -14,3 +14,4 @@ num = len(value)
 print("输入值长度",num)
 
 
+print
