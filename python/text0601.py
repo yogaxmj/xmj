@@ -13,3 +13,8 @@ for i in db:
         break
     else:
         db.append({"username":zh,"password":mm})
+        # c = {}
+        # c["username"] = zh
+        # c["password"] = mm
+        # db.append(c)
+print(db)
